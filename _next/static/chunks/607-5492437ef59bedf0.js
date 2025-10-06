@@ -449,10 +449,10 @@
             href: "/uip",
             subElements: [
               { title: "/learn more", href: "/uip" },
-              { title: "/explorer", href: "https://hub.entangleai.org/msg" },
+              { title: "/explorer", href: "https://entangle-ai.vercel.app//msg" },
               {
                 title: "/docs",
-                href: "https://docs.entangleai.org/entangle-components/photon-messaging",
+                href: "https://docs.entangle.fi/entangle-components/photon-messaging",
               },
             ],
           },
@@ -464,7 +464,7 @@
               { title: "/live feeds", href: "https://udf.entangle.fi/" },
               {
                 title: "/docs",
-                href: "https://docs.entangleai.org/entangle-components/universal-data-feeds",
+                href: "https://docs.entangle.fi/entangle-components/universal-data-feeds",
               },
             ],
           },
@@ -473,7 +473,7 @@
             title: "Photon Bridge",
             href: "https://photonbridge.io",
             subElements: [
-              { title: "/BRIDGE NOW", href: "https://hub.entangleai.org/bridge" },
+              { title: "/BRIDGE NOW", href: "https://entangle-ai.vercel.app//bridge" },
               { title: "/docs", href: "", isLocked: !0 },
             ],
           },
@@ -505,10 +505,10 @@
           },
         ],
         S = [
-          { title: "/gitbook", href: "https://docs.entangleai.org/" },
+          { title: "/gitbook", href: "https://docs.entangle.fi/" },
         ],
         T = [
-          { title: "/TWITTER", href: "https://x.com/entangleaix" },
+          { title: "/TWITTER", href: "https://x.com" },
           { title: "/TELEGRAM", href: "https://t.me/entangle_ai" },
         ],
         E = [
@@ -516,7 +516,7 @@
           {
             hoverColor: "blue",
             text: "/developers",
-            href: "https://docs.entangleai.org/",
+            href: "https://docs.entangle.fi/",
           },
           { hoverColor: "green", text: "/ecosystem", href: "/ecosystem" },
           { hoverColor: "purple", text: "/community", isDropDown: !0 },
@@ -601,7 +601,7 @@
                 children: [
                   (0, r.jsx)(l.default, {
                     target: "_blank",
-                    href: "https://hub.entangleai.org/",
+                    href: "https://entangle-ai.vercel.app/",
                     className: s()(A().buttonChanging, { [A().inverted]: d }),
                     children: (0, r.jsx)(u.default, { text: "[STAKE NGL]" }),
                   }),
@@ -623,7 +623,7 @@
                   }),
                   (0, r.jsx)("br", {}),
                   (0, r.jsx)(l.default, {
-                    href: "https://docs.entangleai.org/",
+                    href: "https://docs.entangle.fi/",
                     target: "_blank",
                     className: A().navItem,
                     children: "/developers",
@@ -639,7 +639,7 @@
                   (0, r.jsx)(x, { label: "/community", accordionTabs: T }),
                   (0, r.jsx)("br", {}),
                   (0, r.jsx)(l.default, {
-                    href: "https://docs.entangleai.org/",
+                    href: "https://docs.entangle.fi/",
                     target: "_blank",
                     className: A().navItem,
                     children: "/gitbook",

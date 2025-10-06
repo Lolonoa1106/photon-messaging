@@ -1354,7 +1354,7 @@
                   className: l().buttons_social,
                   children: [
                     (0, r.jsx)(n.default, {
-                      href: "https://x.com/entangleaix",
+                      href: "https://x.com",
                       target: "_blank",
                       children: (0, r.jsx)(x.default, {
                         size: "small",

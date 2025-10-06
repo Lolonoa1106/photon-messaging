@@ -158,7 +158,7 @@
             href: "https://faq-entangle.notion.site/Entangle-Brand-Kit-161634a18eb380f5b113e024d3883078",
           },
         ],
-        d = [{ label: "/Gitbook", href: "https://docs.entangleai.org/" }],
+        d = [{ label: "/Gitbook", href: "https://docs.entangle.fi/" }],
         E = [
           {
             label: "ENGLISH",
@@ -180,7 +180,7 @@
         ],
         k = [{ label: "/EXPLORER", href: "https://explorer.entangle.fi/" }],
         A = [
-          { label: "/TWITTER", href: "https://x.com/entangleaix" },
+          { label: "/TWITTER", href: "https://x.com" },
           { label: "/TELEGRAM", href: "https://t.me/entangle_ai" },
         ],
         C = [
