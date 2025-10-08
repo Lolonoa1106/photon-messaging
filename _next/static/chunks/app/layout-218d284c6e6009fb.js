@@ -158,7 +158,7 @@
             href: "https://faq-entangle.notion.site/Entangle-Brand-Kit-161634a18eb380f5b113e024d3883078",
           },
         ],
-        d = [{ label: "/Gitbook", href: "https://docs.entangle.fi/" }],
+        d = [{ label: "/Gitbook", href: "https://docs.entanglexplai.xyz/" }],
         E = [
           {
             label: "ENGLISH",

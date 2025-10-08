@@ -163,7 +163,7 @@
                         color: "dark",
                         onClick: () =>
                           window.open(
-                            "https://docs.entangle.fi/entangle-components/photon-messaging/entangle-agent-network/how-to-become-an-agent",
+                            "https://docs.entanglexplai.xyz/entangle-components/photon-messaging/entangle-agent-network/how-to-become-an-agent",
                             "_blank"
                           ),
                         children: "[operate_agent]",
@@ -336,7 +336,7 @@
                                   className: e().buttonsWrapper,
                                   children: [
                                     (0, x.jsx)(m.default, {
-                                      href: "https://docs.entangle.fi",
+                                      href: "https://docs.entanglexplai.xyz",
                                       target: "_blank",
                                       children: (0, x.jsx)(s.default, {
                                         size: "small",
@@ -344,7 +344,7 @@
                                       }),
                                     }),
                                     (0, x.jsx)(m.default, {
-                                      href: "https://docs.entangle.fi",
+                                      href: "https://docs.entanglexplai.xyz",
                                       target: "_blank",
                                       children: (0, x.jsx)(s.default, {
                                         size: "small",
@@ -493,7 +493,7 @@
                   "/** Universal Interoperability Protocol (UIP) is built to handle authentication and transport of data.\nVirtual Machines can now trustlessly communicate with each other to\nexchange value, messages, and assets.",
                 buttonText: "[INTEGRATE]",
                 onClick: () =>
-                  window.open("https://docs.entangle.fi", "_blank"),
+                  window.open("https://docs.entanglexplai.xyz", "_blank"),
               }),
               (0, x.jsx)("div", {
                 className: n().cardsWrapper,
