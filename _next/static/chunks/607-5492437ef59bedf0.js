@@ -473,7 +473,7 @@
             title: "Photon Bridge",
             href: "https://photonbridge.io",
             subElements: [
-              { title: "/BRIDGE NOW", href: "https://app.entanglexplai.xyz/bridge" },
+              { title: "/BRIDGE NOW", href: "https://app.entanglexplai.xyz" },
               { title: "/docs", href: "", isLocked: !0 },
             ],
           },
@@ -481,8 +481,8 @@
         ],
         L = [
           {
-            title: "/UIP",
-            href: "https://entangle.fi/documents/UIP Whitepaper.pdf",
+            title: "",
+            href: "",
           },
         ],
         B = [
@@ -491,25 +491,14 @@
             href: "/documents/litepaper.pdf",
             target:"_blank"
           },
-          {
-            title: "/中文",
-            href: "https://entangle.fi/ch/documents/litepaper.pdf",
-          },
-          {
-            title: "/Tiếng Việt",
-            href: "https://entangle.fi/vi/documents/litepaper.pdf",
-          },
-          {
-            title: "/РУССКИЙ",
-            href: "https://entangle.fi/ru/documents/litepaper.pdf",
-          },
+         
         ],
         S = [
           { title: "/gitbook", href: "https://docs.entanglexplai.xyz/" },
         ],
         T = [
-          { title: "/TWITTER", href: "https://x.com" },
-          { title: "/TELEGRAM", href: "https://t.me/entangle_ai" },
+          { title: "/TWITTER", href: "https://x.com/entanglexplai" },
+          { title: "/TELEGRAM", href: "https://t.me/entanglexplai" },
         ],
         E = [
           { hoverColor: "red", text: "/products", isDropDown: !0 },
@@ -603,7 +592,7 @@
                     target: "_blank",
                     href: "https://app.entanglexplai.xyz/",
                     className: s()(A().buttonChanging, { [A().inverted]: d }),
-                    children: (0, r.jsx)(u.default, { text: "[STAKE NGL]" }),
+                    children: (0, r.jsx)(u.default, { text: "[STAKE EAI]" }),
                   }),
                   (0, r.jsx)(w, {
                     isMenuOpen: i,
@@ -644,8 +633,6 @@
                     className: A().navItem,
                     children: "/gitbook",
                   }),
-                  (0, r.jsx)(x, { label: "/litepaper", accordionTabs: B }),
-                  (0, r.jsx)(x, { label: "/whitepaper", accordionTabs: L }),
                   (0, r.jsx)("br", {}),
                 ],
               }),

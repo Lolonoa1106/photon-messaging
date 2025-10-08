@@ -156,7 +156,7 @@
                       }),
                       (0, x.jsx)("p", {
                         children:
-                          "/** Engineered to empower a decentralized, community-owned Web. Agents secure critical primitives across ecosystems, earning rewards powered by ENTANGLE AI's native token, $NGL",
+                          "/** Engineered to empower a decentralized, community-owned Web. Agents secure critical primitives across ecosystems, earning rewards powered by ENTANGLE AI's native token, $EAI",
                       }),
                       (0, x.jsx)(r.default, {
                         size: "normal",

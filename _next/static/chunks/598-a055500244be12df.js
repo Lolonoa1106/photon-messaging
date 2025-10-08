@@ -313,7 +313,7 @@
                   className: d().buttons_social,
                   children: [
                     (0, i.jsx)(l.default, {
-                      href: "https://x.com",
+                      href: "https://x.com/entanglexplai",
                       target: "_blank",
                       children: (0, i.jsx)(n.default, {
                         size: "small",

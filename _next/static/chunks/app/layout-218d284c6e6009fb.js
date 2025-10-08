@@ -180,8 +180,8 @@
         ],
         k = [{ label: "/EXPLORER", href: "https://explorer.entangle.fi/" }],
         A = [
-          { label: "/TWITTER", href: "https://x.com" },
-          { label: "/TELEGRAM", href: "https://t.me/entangle_ai" },
+          { label: "/TWITTER", href: "https://x.com/entanglexplai" },
+          { label: "/TELEGRAM", href: "https://t.me/entanglexplai" },
         ],
         C = [
           {
